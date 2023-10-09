@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: whitesmoke;
+    font-family: sans-serif;
+}
+h2{
+    text-align: center;
+    padding: 15rem;
+    font-size: 5rem;
+    font-weight: bold;
+    color: brown;
+    font-style: normal;
+}
+p{
+    text-align: center;
+    font-size: 1rem;
+    color: brown;
+    margin-bottom: 3rem;
+
+}
